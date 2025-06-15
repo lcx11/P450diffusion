@@ -6,5 +6,3 @@
 
 - `P450Diffusion_Paddle.ipynb`: 主体 Notebook 实现，包含完整模型训练与生成过程。
 - `README.md`: 当前文档。
-- `研究报告.pdf`: 研究报告。
-- `展示PPT.pptx`: 演示文稿 PPT。
